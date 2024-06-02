@@ -6,13 +6,13 @@ This project is designed to detect hate speech, offensive language, and neutral 
 
 You can run this project interactively in your browser via Voilà by clicking the badge below:
 
-[![Launch Voilà](https://img.shields.io/badge/launch-Voilà-blue.svg)](https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/HEAD?urlpath=voila/render/notebooks/TWD_preview.ipynb)
+
 
 ## Binder
 
 You can run the notebooks in your browser via Binder by clicking the badge below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Toxic-word-detection-project/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Toxic-word-detection-project/HEAD?labs)
 
 ## Project Overview
 
