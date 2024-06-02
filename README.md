@@ -12,7 +12,8 @@ You can run this project interactively in your browser via Voilà by clicking th
 
 You can run the notebooks in your browser via Binder by clicking the badge below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/jlearning5-cred-tection-project-7x6damc7/lab/workspaces/auto-G/tree/notebooks/Fraud_detection.ipynb)
+[![Binder](https://notebooks.gesis.org/binder/jupyter/user/jlearning5-toxi-tection-project-2pqjdmsu/lab/tree/notebooks/Toxic_word_detection.ipynb
+)
 
 ## Project Overview
 
