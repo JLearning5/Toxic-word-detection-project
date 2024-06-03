@@ -34,5 +34,5 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/JLearning5/Credit-Card-Fraud-Detection-project.git
-   cd Credit-Card-Fraud-Detection-project
+   git clone https://github.com/JLearning5/Toxic-word-detection-project.git
+   cd Toxic-word-detection-project
