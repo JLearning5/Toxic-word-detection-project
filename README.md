@@ -6,13 +6,13 @@ This project is designed to detect hate speech, offensive language, and neutral 
 
 You can run this project interactively in your browser via Voilà by clicking the badge below:
 
-
+[![Launch Voilà](https://img.shields.io/badge/launch-Voilà-blue.svg)](https://mybinder.org/v2/gh/JLearning5/Toxic-word-detection-project/HEAD?urlpath=voila/render/notebooks/Toxic_word_detection.ipynb)
 
 ## Binder
 
 You can run the notebooks in your browser via Binder by clicking the badge below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Toxic-word-detection-project/HEAD?labs)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Toxic-word-detection-project/HEAD?labpath=notebooks%2FToxic_word_detection.ipynb)
 
 ## Project Overview
 
